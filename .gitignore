@@ -1,0 +1,17 @@
+# Streamlit secrets — NEVER commit this
+.streamlit/secrets.toml
+
+# Old file-based progress — no longer needed
+progress.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Virtual environments (common names)
+venv/
+.venv/
+env/
+.env/
